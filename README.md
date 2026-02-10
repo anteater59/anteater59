@@ -2,7 +2,7 @@ _"Memory, see the light_
 
 _Let me feel alive!"_ 
 
-<p align="center"> ◜dan/joey . he/they . 4teen . INTP 5w6◞ </p>
+<p align="center"> ◜dan/joey . he/they . 4teen . INTP 7w6◞ </p>
 
 <p align="center"> ◜I love sherlock, star trek tng, & musicals! ^⩌^◞ </p>
 

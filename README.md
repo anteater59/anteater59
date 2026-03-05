@@ -11,7 +11,7 @@ _Let me feel alive!"_
 
 <p align="left"> FAV CHARACTERS! ›‿‹ </p>
 
-_DATA SOONG,_ ___Star Trek: The Next Generation___ <img align="left" width="350" height="400" src="https://i.pinimg.com/736x/09/26/30/092630553734e4e2711df20e0f7ac989.jpg"> 
+_DATA SOONG,_ ___Star Trek: The Next Generation___ <img align="left" width="350" height="400" src="i.pinimg.com/1200x/fd/22/4e/fd224e641e94933a2f28b94491b11be5.jpg"> 
 
 
 <img align="right" width="350" height="400" src="https://i.pinimg.com/originals/4a/be/61/4abe613458eb6fc205293c6bf0123b44.gif">

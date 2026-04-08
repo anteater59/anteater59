@@ -4,10 +4,10 @@
 
 <img align="center" width="1000" height="300" src="https://media.discordapp.net/attachments/1248042499780644864/1491559152764584016/2026_04_08_0u3_Kleki.png?ex=69d82235&is=69d6d0b5&hm=d9b735bd925ffbff89788924af50de699a45329fd05ecf823d207e072ad9213c&=&format=webp&quality=lossless&width=1855&height=353">
 
-<img align="left" width="219" height="200" src="https://64.media.tumblr.com/f64f63d19a24c857ff7a299f2b7b1e98/d707fae9335da723-58/s250x400/5a592734fd651fc071fa6741181c9e4854891a39.gif">
-<img align="left" width="230" height="200" src="https://64.media.tumblr.com/568f9d5b360e39c99f463c84e3951360/840180a87065cc08-0c/s100x200/3fa3e88ab61120e14c6d79a9ed30d4ee1f9dbb9d.gif">
-<img align="left" width="230" height="200" src="https://64.media.tumblr.com/7c9505e88c6a90b60736d508076a52dd/83862ddde73198fa-ea/s100x200/b5045ec0c90c9a85524a6b86b03011158dd0634b.gif">
-<img align="left" width="230" height="200" src="https://64.media.tumblr.com/dd20fadf4885b7b1423cb44d11414865/475722b126f18560-9c/s100x200/cb730c37ef486d83518e0a4718a8af7b728df131.gif">
+<img align="left" width="200" height="200" src="https://64.media.tumblr.com/f64f63d19a24c857ff7a299f2b7b1e98/d707fae9335da723-58/s250x400/5a592734fd651fc071fa6741181c9e4854891a39.gif">
+<img align="left" width="200" height="200" src="https://64.media.tumblr.com/568f9d5b360e39c99f463c84e3951360/840180a87065cc08-0c/s100x200/3fa3e88ab61120e14c6d79a9ed30d4ee1f9dbb9d.gif">
+<img align="left" width="200" height="200" src="https://64.media.tumblr.com/7c9505e88c6a90b60736d508076a52dd/83862ddde73198fa-ea/s100x200/b5045ec0c90c9a85524a6b86b03011158dd0634b.gif">
+<img align="left" width="200" height="200" src="https://64.media.tumblr.com/dd20fadf4885b7b1423cb44d11414865/475722b126f18560-9c/s100x200/cb730c37ef486d83518e0a4718a8af7b728df131.gif">
 
 ![image](https://64.media.tumblr.com/0e2b25343c7c38d17633d7af334286a9/e77a36d24630433e-40/s2048x3072/51f89ef21aad9de0e12d7f4ce5ccdf5071def4c5.pnj)
 

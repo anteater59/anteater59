@@ -8,7 +8,7 @@
 <img align="left" width="200" height="200" src="https://64.media.tumblr.com/568f9d5b360e39c99f463c84e3951360/840180a87065cc08-0c/s100x200/3fa3e88ab61120e14c6d79a9ed30d4ee1f9dbb9d.gif">
 <img align="left" width="200" height="200" src="https://64.media.tumblr.com/7c9505e88c6a90b60736d508076a52dd/83862ddde73198fa-ea/s100x200/b5045ec0c90c9a85524a6b86b03011158dd0634b.gif">
 <img align="left" width="200" height="200" src="https://64.media.tumblr.com/dd20fadf4885b7b1423cb44d11414865/475722b126f18560-9c/s100x200/cb730c37ef486d83518e0a4718a8af7b728df131.gif">
-<img align="left" width="200" height="200" src="https://64.media.tumblr.com/536cc8fb6fa4eaa61a7c5cc73ca5cd62/4e0f23d1aca2c228-c1/s100x200/941374892c59bafa54f7fc8ec1322cfd454b9aac.gif">
+
 
 ![image](https://64.media.tumblr.com/0e2b25343c7c38d17633d7af334286a9/e77a36d24630433e-40/s2048x3072/51f89ef21aad9de0e12d7f4ce5ccdf5071def4c5.pnj)
 

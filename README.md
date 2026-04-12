@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1248042499780644864/1491563835360940173/2026_04_08_0um_Kleki.png?ex=69d82692&is=69d6d512&hm=cb22a0d2888976284b3347ad4c9cad819146665888ba3ac2919158a41ad009c2&)
+![image](https://media.discordapp.net/attachments/1248042499780644864/1491563835360940173/2026_04_08_0um_Kleki.png?ex=69dc1b12&is=69dac992&hm=c8c140326a297358b717c64c9d53dd0cbc1c157348c692419e11cd42c32ac050&=&format=webp&quality=lossless&width=1107&height=337)
 
 <img align="center" width="1000" height="300" src="https://64.media.tumblr.com/ff2a513a28dcf24f877b227bdacb6f38/55ca1a50a3acf5df-34/s1280x1920/b4c11cbe020ce462b2a273aa2b0ef466eb5ce206.pnj">
 
